@@ -1,0 +1,15 @@
+ul{
+    font-size:15px;font-family:'Times New Roman', Times, serif
+}
+h2{
+    font-size:30px;font-family:'Times New Roman', Times, serif
+}
+h1{
+    font-family:'Times New Roman', Times, serif
+}
+.subheading{
+    font-family:'Times New Roman', Times, serif !important
+}
+.post-meta{
+    font-family:'Times New Roman', Times, serif; color:black !important;
+}
